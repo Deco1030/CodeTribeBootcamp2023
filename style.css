@@ -1,0 +1,118 @@
+.navigationClass a
+{
+    margin-right: 16px;
+    margin-left: 16px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    color: white;
+    text-decoration: none;
+}
+
+h1
+{
+    text-align: center;
+    color: white;
+}
+
+#paragraphID
+{
+    color: white;
+    padding: 2px;
+    font-size: 18px;
+}
+
+.aboutMeMainClass
+{
+    height: 200vh;
+    background-image: url('../Codetribe/assets/pictures/nature.jpg');
+    background-size: cover;
+    background-color: green;
+}
+
+.aboutMeMainClass h2
+{
+    text-align: center;
+    color: whitesmoke;
+    text-decoration: underline;
+    text-decoration-color: whitesmoke;
+}
+
+.personalInforClass
+{
+    color: yellow;
+    padding: 30px;
+    margin-left: 30px;
+    font-size: 20px;
+    width: 450px;
+}
+
+.techSkillClass
+{
+    text-align: left;
+    color: yellow;
+    padding-left: 30px;
+    font-size: 20px;
+    margin: 30px;
+    height: 250px;
+}
+
+.educationalInforClass
+{
+    color: yellow;
+    margin-left: 60px;
+    font-size: 20px;
+
+}
+
+#contactMeMainID
+{
+    height: 100vh;
+    background-color:rgb(4, 63, 21);
+    background-image: url('../Codetribe/assets/pictures/nature.jpg');
+    background-size: cover;
+}
+
+#inputControlID
+{
+    width: 300px;
+    height: 30px;
+    margin-left: 30px;
+    background: transparent;
+    color: white;
+    border-color: red;
+}
+
+#messageBoxID
+{
+    width: 300px;
+    height: 300px;
+    margin-left: 30px;
+    background: transparent;
+    color: whitesmoke;
+    resize: none;
+    border-color: red;
+    border-width: 2px;
+}
+
+#submitBtnID
+{
+    width: 100px;
+    height: 30px;
+    margin-left: 120px;
+    border-color: red;
+    border-width: 2px;
+    background: transparent;
+}
+#submitBtnID a
+{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+#locationID
+{
+    color: white;
+    font-size: 18px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
